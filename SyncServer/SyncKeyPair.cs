@@ -1,0 +1,22 @@
+using System.Text.Json.Serialization;
+
+namespace SyncServer;
+
+public class SyncKeyPair
+{
+    public string PublicKey { get; set; }
+    public string PrivateKey { get; set; }
+    public int Version { get; set; }
+
+    public SyncKeyPair(int version, string publicKey, string privateKey)
+    {
+        PublicKey = publicKey;
+        PrivateKey = privateKey;
+        Version = version;
+    }
+}
+
+[JsonSerializable(typeof(SyncKeyPair))]
+public partial class SyncKeyPairContext : JsonSerializerContext
+{
+}

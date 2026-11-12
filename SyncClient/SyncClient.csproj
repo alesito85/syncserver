@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<SelfContained>true</SelfContained>
+	<ServerGarbageCollection>true</ServerGarbageCollection>
+	<PublishTrimmed>true</PublishTrimmed>
+    <PublishAot>true</PublishAot>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\FUTO.MDNS\FUTO.MDNS\FUTO.MDNS.csproj" />
+    <ProjectReference Include="..\SyncShared\SyncShared.csproj" />
+  </ItemGroup>
+
+</Project>

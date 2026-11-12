@@ -1,0 +1,12 @@
+/Users/ales/git/Grayjay/Grayjay.Desktop/SyncServer/SyncShared/bin/Debug/net8.0/SyncShared.deps.json
+/Users/ales/git/Grayjay/Grayjay.Desktop/syncserver/SyncShared/bin/Debug/net8.0/SyncShared.dll
+/Users/ales/git/Grayjay/Grayjay.Desktop/syncserver/SyncShared/bin/Debug/net8.0/SyncShared.pdb
+/Users/ales/git/Grayjay/Grayjay.Desktop/syncserver/SyncShared/obj/Debug/net8.0/SyncShared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ales/git/Grayjay/Grayjay.Desktop/syncserver/SyncShared/obj/Debug/net8.0/SyncShared.AssemblyInfoInputs.cache
+/Users/ales/git/Grayjay/Grayjay.Desktop/syncserver/SyncShared/obj/Debug/net8.0/SyncShared.AssemblyInfo.cs
+/Users/ales/git/Grayjay/Grayjay.Desktop/syncserver/SyncShared/obj/Debug/net8.0/SyncShared.csproj.CoreCompileInputs.cache
+/Users/ales/git/Grayjay/Grayjay.Desktop/syncserver/SyncShared/obj/Debug/net8.0/SyncShared.sourcelink.json
+/Users/ales/git/Grayjay/Grayjay.Desktop/syncserver/SyncShared/obj/Debug/net8.0/SyncShared.dll
+/Users/ales/git/Grayjay/Grayjay.Desktop/syncserver/SyncShared/obj/Debug/net8.0/refint/SyncShared.dll
+/Users/ales/git/Grayjay/Grayjay.Desktop/syncserver/SyncShared/obj/Debug/net8.0/SyncShared.pdb
+/Users/ales/git/Grayjay/Grayjay.Desktop/SyncServer/SyncShared/obj/Debug/net8.0/ref/SyncShared.dll

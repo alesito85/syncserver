@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "lI0bwqKKaDc=",
+  "success": true,
+  "projectFilePath": "/Users/ales/git/Grayjay/Grayjay.Desktop/SyncServer/SyncClient/SyncClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/ales/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.26/microsoft.dotnet.ilcompiler.8.0.26.nupkg.sha512",
+    "/Users/ales/.nuget/packages/microsoft.net.illink.tasks/8.0.26/microsoft.net.illink.tasks.8.0.26.nupkg.sha512",
+    "/Users/ales/.nuget/packages/microsoft.netcore.app.ref/8.0.26/microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "/Users/ales/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.26/microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "/Users/ales/.nuget/packages/runtime.osx-arm64.microsoft.dotnet.ilcompiler/8.0.26/runtime.osx-arm64.microsoft.dotnet.ilcompiler.8.0.26.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.DotNet.ILCompiler' 8.0.26 has a known high severity vulnerability, https://github.com/advisories/GHSA-p3jp-9v83-76w9",
+      "projectPath": "/Users/ales/git/Grayjay/Grayjay.Desktop/SyncServer/SyncClient/SyncClient.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/ales/git/Grayjay/Grayjay.Desktop/SyncServer/SyncClient/SyncClient.csproj",
+      "libraryId": "Microsoft.DotNet.ILCompiler",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
